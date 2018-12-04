@@ -1,0 +1,31 @@
+/*  this is how oyu target a tag*/
+Body
+
+/*  this is how you target an id*/
+#theNav {}
+  /*  this is how you target a class*/
+  .theImageDiv{
+    background-color: #27da54
+  }
+
+  h1{
+    font-size: 72px
+
+  }
+
+#theNav a{
+  padding-left: 2vw;
+  text-decoration: none;
+}
+    centercontent{
+      padding-left: 20vw;
+
+    }
+
+      img{
+        width: : 50vw;
+        border: 10vw solid yellow;
+
+      }
+.newBackgroundcolor{
+  background-color: rgb(47, 236, 230);}
